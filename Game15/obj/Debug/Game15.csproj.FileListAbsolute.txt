@@ -1,0 +1,33 @@
+D:\c#\Game15\Game15\Game15\bin\Debug\Game15.exe.config
+D:\c#\Game15\Game15\Game15\bin\Debug\Game15.exe
+D:\c#\Game15\Game15\Game15\bin\Debug\Game15.pdb
+D:\c#\Game15\Game15\Game15\obj\Debug\Game15.csprojResolveAssemblyReference.cache
+D:\c#\Game15\Game15\Game15\obj\Debug\Game15.FormGame15.resources
+D:\c#\Game15\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+D:\c#\Game15\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.Cache
+D:\c#\Game15\Game15\Game15\obj\Debug\Game15.exe
+D:\c#\Game15\Game15\Game15\obj\Debug\Game15.pdb
+I:\4 семестр\Game15\Game15\bin\Debug\Game15.exe.config
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.exe
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.pdb
+D:\4 семестр\Game15\Game15\bin\Debug\Game15.exe.config
+D:\4 семестр\Game15\Game15\obj\Debug\Game15.exe
+D:\4 семестр\Game15\Game15\obj\Debug\Game15.pdb
+D:\4 семестр\Game15\Game15\bin\Debug\Game15.exe
+D:\4 семестр\Game15\Game15\bin\Debug\Game15.pdb
+D:\4 семестр\Game15\Game15\obj\Debug\Game15.csprojResolveAssemblyReference.cache
+D:\4 семестр\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+D:\4 семестр\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.Cache
+I:\4 семестр\Game15\Game15\bin\Debug\Game15.exe
+I:\4 семестр\Game15\Game15\bin\Debug\Game15.pdb
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.StartMenu.resources
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.Cache
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.FormGame.resources
+D:\4 семестр\Game15\Game15\obj\Debug\Game15.FormGame.resources
+D:\4 семестр\Game15\Game15\obj\Debug\Game15.StartMenu.resources
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.EnterName.resources
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.ResultForm.resources
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.LoadGameFormcs.resources
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.HelpForm.resources
+I:\4 семестр\Game15\Game15\obj\Debug\Game15.csprojResolveAssemblyReference.cache

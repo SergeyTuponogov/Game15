@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game15.EnterName">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAIACAAAEAAAAIEAAAAAAAAA=</HashCode>
+      <FileName>EnterName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.FormGame">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQQAEEBCACEAIAAEBASCABlCAAAAAgBoAQAhBIBgAAg=</HashCode>
+      <FileName>FormGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.Game">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAACHBAAAAiBIAAAEAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.HelpForm">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Game15.HelpForm.Condition" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HelpForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAgAACAAAAAAAACACAACAAABAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>HelpForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.LoadGameFormcs">
+    <Position X="1.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAACAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadGameFormcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.Program">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.ResultForm">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ResultForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.StartMenu">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACBAAAgAAICAIgBCgACABEAQACABQAABBDA=</HashCode>
+      <FileName>StartMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.Properties.Resources">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game15.Properties.Settings">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
